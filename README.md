@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+Fuck Yeah
+
 This repository is for showing how Git and GitHub work
 
 ## Purpose
